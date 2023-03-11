@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I work as a firmware engineer, but am interested in all parts of the software stack. From writing low-level embedded software, to doing web design, it all interests me.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I studied electrical engineering at Case Western Reserver University. My original plan was to become a hardware engineer. But, after taking several software classes as electives, I discovered software is were my passion is. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I tend to work on many projects at once and chip away at them all over time. I hope to use this site as a place to store my knowledge and keep me accountable.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Feel free to check me out on [LinkedIn](https://www.linkedin.com/in/nathan-mack-6aa293140?original_referer=https%3A%2F%2Fwww.google.com%2F)!
