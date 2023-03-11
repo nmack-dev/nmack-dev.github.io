@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+![me on a boat](me.png)
 
 I work as a firmware engineer, but am interested in all parts of the software stack. From writing low-level embedded software, to doing web design, it all interests me.
 
