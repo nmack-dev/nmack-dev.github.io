@@ -5,10 +5,10 @@ permalink: /about/
 ---
 ![me on a boat](me.png)
 
-I work as a firmware engineer, but am interested in all parts of the software stack. From writing low-level embedded software, to doing web design, it all interests me.
+I am a firmware engineer based in the Chicago area with a passion for development. The entire software stack fascinates me. From writing low-level embedded software, to doing web design, I'm into it all.
 
-I studied electrical engineering at Case Western Reserver University. My original plan was to become a hardware engineer. But, after taking several software classes as electives, I discovered software is were my passion is. 
+I have electrical engineering background, studying at Case Western Reserver University. My original plan was to become an analog hardware engineer. But, after taking several software classes as electives, I discovered it's where my true passion is. 
 
-I tend to work on many projects at once and chip away at them all over time. I hope to use this site as a place to store my knowledge and keep me accountable.
+I tend to work on many projects at once and chip away at them over time. I hope to use this site as a place for accountability and to store knowledge.
 
 Feel free to check me out on [LinkedIn](https://www.linkedin.com/in/nathan-mack-6aa293140?original_referer=https%3A%2F%2Fwww.google.com%2F)!
